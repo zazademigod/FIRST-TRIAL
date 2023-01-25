@@ -1,0 +1,22 @@
+h1{
+	background-color: green;
+	padding: 4px;
+	width: 100px;
+	border:1px brown;
+	border-radius:15%;
+}
+#firstdiv{
+	background-color: brown;
+	width: 500px;
+	border-radius: 45px;
+	padding: 45%;
+}
+.a1{
+	color:red;
+	width:50px;
+}
+.a1:hover{
+	color:blue;
+	width:45px;
+}
+
