@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> About us</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+	    <div id="firstdiv">
+       <h1> Who are we?</h1>
+     we are a team of dedicated officers with over 8 years worth
+            of experience handling protocol security services of events,we 
+            are dedicated to ensuring there is a smooth flow of procedures in events.
+            Borders do not limit our services as we have the ability to send officers accross borders to continue the growth of the company.
+        </div>
+        <div>
+            <h2>interested in hiring?
+                
+              kindly <a class="a1" href="beagle form.html">click here</a></h2>
+
+              
+        </div>
+        <div><fieldset>
+	    
+	  </fieldset>
+
+<img class="imgs" src="/images/men on suit.jpg" alt="men">
+                <img class="imgs" src="/images/male surfer.jpeg" alt="surfer">
+        </div>
+        <h1>another test to my page</h1>
+        <h2>just another test</h2>
+	<button> <a class="btt" href="#">back to top</a></button>w
+    </body>
+</html>
