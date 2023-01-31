@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .trump {
+        background-color: orange;
+        width: 150px;
+        height: 200px;
+        border-radius: 50% 50% 0 50%;
+        transform: rotate(45deg);
+        position: relative;
+      }
+      
+      .trump::before {
+        content: "";
+        background-color: white;
+        width: 70px;
+        height: 70px;
+        border-radius: 50% 50% 50% 50%;
+        position: absolute;
+        top: 20px;
+        left: 40px;
+      }
+      
+      .trump::after {
+        content: "";
+        background-color: white;
+        width: 40px;
+        height: 40px;
+        border-radius: 50% 50% 50% 50%;
+        position: absolute;
+        top: 60px;
+        left: 55px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="trump"></div>
+  </body>
+</html>
